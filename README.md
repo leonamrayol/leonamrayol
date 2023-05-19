@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Leonam
 #### I am developper front end
-![I am developper front end](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am developper front end]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -17,7 +17,6 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonamrayol&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=leonamrayol)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=leonamrayol)  
 
